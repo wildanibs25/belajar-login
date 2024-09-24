@@ -30,6 +30,13 @@
                         <td>Item</td>
                     </tr>
                 </tbody>
+                <tfoot>
+                    <tr>
+                        <th>Hasil</th>
+                        <th>jumlah</th>
+                        <th>waktu</th>
+                    </tr>
+                </tfoot>
             </table>
         </div>
 
