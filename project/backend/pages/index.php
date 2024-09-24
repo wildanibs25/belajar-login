@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-
+<!-- fungsi untuk memanggil Head -->
 <?php include "../components/head.php" ?>
 
 <body>
